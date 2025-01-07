@@ -28,7 +28,7 @@ Each folder will typically include:
 
 | Day   | Topic                         | Status       | Folder Link          |
 |-------|-------------------------------|--------------|----------------------|
-| Day 1 | Introduction to Machine Learning | ✅   | [Day 1 Folder](day_01/) |
+| Day 1 | Introduction to Machine Learning | ✅   | [Day 1 Folder](Day1/) |
 
 
 ## Contributing
