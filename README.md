@@ -35,8 +35,8 @@ Each folder will typically include:
 
 | Day   | Topic                         | Status       | Folder Link          |  
 |-------|-------------------------------|--------------|----------------------|  
-| Day 1 | Introduction to Machine Learning | ✅   | [Day 1](Days/Day1/) |  
-| Day 2 | Python Basics                  | ✅   | [Day 2](Days/Day2/) |  
+| Day 1 | Introduction to Machine Learning | ✅   | [Day 1](DAYS/Day1/) |  
+| Day 2 | Python Basics                  | ✅   | [Day 2](DAYS/Day2/) |  
 
 ---
 
