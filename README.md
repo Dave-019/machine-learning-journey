@@ -39,6 +39,7 @@ Each folder will typically include:
 | Day 2 | Python Basics                  | ✅   | [Day 2](DAYS/Day2.md) |  
 | Day 3 | Python (functions and file handling)                  | ✅   | [Day 3](DAYS/Day3.md) | 
 | Day 4 | Data handling                  | ✅   | [Day 4](DAYS/Day4.md) |
+| Day 5 | Data handling(cont)                  | ✅   | [Day 5](DAYS/Day5.md) |
 ---
 
 ## Contributing  

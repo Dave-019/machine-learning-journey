@@ -1,0 +1,1001 @@
+Name,Age,Email,Join_Date,Salary,Department
+John O'Connell,NA,john_o'connell@email.com,2016-09-16,NULL,HR
+Alice Davis,20,alice_davis@mail.net,2020-05-22,NULL,Marketing
+Laura Brown,NULL,laura_brown@mail.net,2016-12-11,91867,HR
+Sam Smith,21,sam_smith@email.com,28/06/2025,35874,Finance
+Sarah Doe,NULL,sarah_doe@fake.com,2015-04-17,NULL,HR
+Sarah Green,54,sarah_green@fake.com,21/05/2021,80400,NULL
+NULL,NULL,invalid_email,2021-08-18,41322,Finance
+Laura Miller,20,laura_miller@email.com,2025-06-25,NULL,NULL
+Robert Smith,NA,robert_smith@email.com,2016-06-20,77089,Sales
+Sam Black,27,sam_black@email.com,2017-10-08,,Operations
+Lisa Smith,NA,lisa_smith@email.com,2025-01-01,NULL,Finance
+Lisa Davis,NA,lisa_davis@email.com,2025-01-01,39407,Customer Support
+Tom O'Connell,NULL,tom_o'connell@fake.com,2025-01-17,48986,Finance
+Jessica Davis,60,jessica_davis@email.com,2018-09-16,62093,Finance
+Laura Doe,NA,laura_doe@mail.net,13/12/2022,NULL,HR
+Chris Doe,20,chris_doe@web.org,2019-01-11,,Finance
+NULL,20,invalid_email,2025-01-01,,Finance
+John Black,NULL,john_black@mail.net,2025-01-01,NULL,Sales
+Tom Black,NULL,tom_black@email.com,2025-01-01,,IT
+Emily Green,20,emily_green@fake.com,2025-04-06,NULL,Sales
+Lisa Smith,NULL,invalid_email,2025-01-01,54412,Operations
+NULL,NULL,invalid_email,2025-01-01,NULL,IT
+James Miller,NA,james_miller@email.com,2025-01-01,68060,Sales
+Robert White,NA,robert_white@mail.net,2025-03-25,99158,Customer Support
+Emily Davis,NA,emily_davis@web.org,2025-01-01,NULL,Marketing
+Anna Davis,20,anna_davis@web.org,2024-11-20,,Customer Support
+Anna Brown,NA,anna_brown@email.com,2016-05-08,,HR
+David O'Connell,NULL,david_o'connell@web.org,2025-08-09,,Customer Support
+Mary Brown,NULL,mary_brown@fake.com,2017-11-13,63384,Operations
+Anna O'Connell,24,anna_o'connell@fake.com,2015-04-06,77552,Finance
+Mary Brown,NA,mary_brown@email.com,22/07/2023,70906,NULL
+James Green,20,james_green@mail.net,2019-06-14,84918,IT
+Peter Green,20,peter_green@fake.com,2024-07-09,NULL,Sales
+Sam Johnson,34,sam_johnson@email.com,2025-07-08,,HR
+Chris O'Connell,38,chris_o'connell@email.com,2023-05-09,99946,HR
+David Johnson,38,david_johnson@mail.net,2025-01-01,,IT
+Anna Brown,NULL,anna_brown@email.com,17/09/2022,,Customer Support
+Lisa White,43,lisa_white@fake.com,22/11/2015,83249,HR
+David Miller,NULL,david_miller@web.org,2021-02-17,,Operations
+James Brown,NA,invalid_email,2025-09-01,67461,NULL
+Robert O'Connell,NULL,robert_o'connell@web.org,2015-04-05,NULL,Sales
+Chris White,NA,chris_white@mail.net,2023-01-12,37353,Finance
+Robert O'Connell,20,robert_o'connell@fake.com,2024-10-21,44941,Marketing
+Chris Smith,NULL,chris_smith@mail.net,2021-09-18,41870,Operations
+James Green,44,james_green@web.org,2020-06-13,NULL,NULL
+James Green,36,james_green@fake.com,2020-07-22,NULL,Finance
+NULL,20,invalid_email,2018-06-12,75519,IT
+Robert Doe,47,robert_doe@web.org,2025-01-01,89787,NULL
+Anna O'Connell,NA,anna_o'connell@web.org,2025-01-01,NULL,Marketing
+Emily Brown,20,emily_brown@mail.net,2025-01-01,NULL,Operations
+Emily Doe,NULL,emily_doe@mail.net,2024-02-06,NULL,Finance
+Chris White,NULL,chris_white@mail.net,2025-01-01,94719,Sales
+Robert Black,NULL,robert_black@web.org,2016-11-28,NULL,Marketing
+Sam Smith,20,sam_smith@mail.net,26/04/2015,NULL,Sales
+James Green,NA,james_green@mail.net,2025-01-01,,Customer Support
+Sam Miller,20,sam_miller@web.org,2020-04-05,63090,Operations
+Jessica Davis,20,jessica_davis@fake.com,2018-03-28,NULL,HR
+Sarah White,39,sarah_white@web.org,2020-11-13,NULL,Operations
+David Black,NA,david_black@fake.com,27/07/2015,49788,Customer Support
+Jessica O'Connell,NULL,jessica_o'connell@fake.com,2022-05-23,NULL,Finance
+Sarah Smith,20,invalid_email,2021-01-21,NULL,HR
+Tom White,NA,tom_white@email.com,2017-01-04,NULL,Operations
+Mary Doe,20,mary_doe@fake.com,2025-01-20,NULL,HR
+David White,NULL,david_white@mail.net,2019-05-26,NULL,NULL
+Alice Smith,NA,alice_smith@mail.net,25/04/2023,NULL,Marketing
+James Johnson,53,invalid_email,14/01/2023,NULL,Finance
+Jessica Smith,NA,jessica_smith@web.org,2015-09-15,37374,Sales
+Sam Green,52,sam_green@web.org,2018-06-03,NULL,Operations
+Emily Black,33,emily_black@mail.net,2023-03-10,NULL,IT
+Chris Miller,NULL,chris_miller@web.org,13/06/2022,NULL,Finance
+Chris Brown,20,chris_brown@mail.net,2025-01-01,NULL,HR
+Alice Miller,42,alice_miller@fake.com,25/10/2015,31872,Finance
+Lisa Brown,NA,lisa_brown@mail.net,2022-09-11,NULL,IT
+Sam Green,NULL,sam_green@web.org,2020-11-08,,IT
+NULL,20,invalid_email,2025-01-01,,Operations
+Lisa Davis,NULL,lisa_davis@email.com,2016-03-09,98680,Customer Support
+Sarah Brown,46,sarah_brown@mail.net,2020-12-11,NULL,NULL
+Anna Davis,20,anna_davis@web.org,2016-03-07,,HR
+Jane Smith,20,jane_smith@mail.net,2015-10-03,NULL,IT
+Anna Green,NULL,anna_green@mail.net,2020-09-21,78802,Marketing
+Laura Black,33,laura_black@fake.com,2021-01-24,,Sales
+Laura Brown,20,laura_brown@email.com,2025-01-01,,Sales
+Alice Green,47,alice_green@email.com,2025-01-01,NULL,Marketing
+James Smith,20,james_smith@mail.net,2025-01-01,NULL,Marketing
+Tom Brown,NA,tom_brown@fake.com,19/01/2021,49423,HR
+Chris O'Connell,53,chris_o'connell@mail.net,2017-01-05,NULL,Marketing
+Lisa Doe,20,lisa_doe@mail.net,2020-12-21,,Finance
+David Miller,25,david_miller@web.org,2025-01-01,,Finance
+Tom Davis,58,tom_davis@web.org,2023-01-03,,Sales
+NULL,42,invalid_email,2020-08-28,NULL,Operations
+Chris Miller,NA,chris_miller@email.com,2021-12-15,,Operations
+Laura Miller,57,laura_miller@web.org,2021-11-24,NULL,IT
+Alex Black,20,alex_black@fake.com,2022-11-03,,IT
+Lisa Smith,NA,lisa_smith@mail.net,2025-01-01,NULL,HR
+Emily Miller,NULL,emily_miller@web.org,2019-03-08,NULL,NULL
+Sam Davis,NULL,sam_davis@fake.com,2023-07-03,97717,IT
+NULL,20,invalid_email,19/11/2015,91108,NULL
+Lisa O'Connell,NA,lisa_o'connell@email.com,2019-04-03,91989,HR
+Emily Doe,NA,emily_doe@web.org,2025-01-01,61800,Sales
+John Miller,57,john_miller@email.com,2016-08-24,NULL,NULL
+John White,20,john_white@email.com,2015-04-26,91184,HR
+Laura Brown,20,laura_brown@email.com,2017-06-06,,NULL
+James Davis,20,james_davis@web.org,2024-05-28,95753,Finance
+David Johnson,NA,david_johnson@fake.com,2024-12-06,,Finance
+Mike Smith,NULL,mike_smith@web.org,2025-01-01,,Finance
+Tom Doe,NULL,tom_doe@web.org,2019-07-26,67169,Operations
+Sam Davis,20,sam_davis@email.com,2025-01-01,NULL,Finance
+NULL,31,invalid_email,2025-01-01,,NULL
+Anna Davis,NA,anna_davis@email.com,2016-08-12,NULL,Finance
+Laura Miller,20,laura_miller@web.org,18/07/2015,54810,Marketing
+Alex Green,NULL,alex_green@web.org,2025-01-01,67597,IT
+David Davis,NULL,david_davis@mail.net,2025-01-01,NULL,NULL
+Alex White,NA,alex_white@web.org,2018-02-11,88447,Finance
+Sam Smith,51,sam_smith@fake.com,2025-01-01,,HR
+John Smith,NA,john_smith@fake.com,2025-01-01,,HR
+Robert Miller,NULL,invalid_email,27/09/2022,98133,IT
+Alex O'Connell,NULL,alex_o'connell@email.com,2018-01-24,NULL,Customer Support
+Lisa Smith,NULL,lisa_smith@email.com,2021-05-18,,HR
+Chris Brown,20,chris_brown@web.org,2020-07-18,72992,Sales
+Anna Smith,41,anna_smith@mail.net,2018-07-18,,Finance
+Tom Green,NA,tom_green@web.org,2025-12-24,40771,Operations
+Jessica Smith,NULL,jessica_smith@fake.com,14/10/2018,NULL,HR
+Robert Brown,23,robert_brown@mail.net,17/05/2019,,HR
+Sam Johnson,NULL,sam_johnson@fake.com,2025-01-01,NULL,Operations
+Sam Smith,NULL,sam_smith@web.org,26/12/2018,NULL,Customer Support
+James O'Connell,NULL,invalid_email,2020-01-11,34469,HR
+James Black,20,invalid_email,2016-10-16,NULL,Sales
+Lisa Doe,20,invalid_email,24/04/2015,89699,Sales
+Chris Doe,20,chris_doe@fake.com,2025-01-01,NULL,HR
+NULL,NULL,invalid_email,2025-01-01,NULL,Operations
+Jessica Doe,49,invalid_email,2025-01-01,78270,NULL
+Emily O'Connell,NA,emily_o'connell@web.org,2025-09-14,NULL,Operations
+Emily White,NULL,emily_white@mail.net,2025-01-01,99952,Finance
+Sarah O'Connell,NA,sarah_o'connell@fake.com,2016-05-19,NULL,Sales
+Mike Johnson,20,mike_johnson@email.com,2024-07-26,NULL,IT
+Mary Davis,NULL,mary_davis@email.com,2025-01-01,,NULL
+Mike Miller,47,invalid_email,2023-04-08,91077,HR
+Jane Miller,NA,jane_miller@web.org,2018-11-22,NULL,Customer Support
+Chris Black,NA,invalid_email,2018-05-03,,IT
+Sarah Black,NA,sarah_black@email.com,2019-11-17,NULL,NULL
+Anna Brown,20,invalid_email,2019-11-11,,Finance
+Laura Smith,53,laura_smith@web.org,2021-03-26,,Customer Support
+Alice Brown,NA,alice_brown@web.org,21/08/2025,,NULL
+Peter Doe,20,peter_doe@mail.net,2025-12-10,55026,Customer Support
+NULL,NA,invalid_email,28/03/2024,94550,Operations
+Jessica White,NA,jessica_white@mail.net,2018-07-23,NULL,Finance
+Sam O'Connell,20,sam_o'connell@web.org,2023-02-06,NULL,Customer Support
+John White,NA,john_white@mail.net,2024-11-23,50712,HR
+Alice Doe,NULL,alice_doe@email.com,2015-03-21,,Marketing
+Laura O'Connell,20,laura_o'connell@web.org,27/12/2025,50889,NULL
+Alex Brown,NA,alex_brown@web.org,2025-01-01,,HR
+Jane Doe,37,jane_doe@fake.com,2025-02-26,79935,Operations
+Alice Smith,44,alice_smith@fake.com,2015-02-05,NULL,Customer Support
+David Miller,20,david_miller@email.com,2022-04-13,92435,Marketing
+Jane O'Connell,NULL,jane_o'connell@fake.com,2022-06-03,,NULL
+Sarah Miller,20,sarah_miller@web.org,2025-01-01,,HR
+Chris Davis,20,invalid_email,18/09/2017,NULL,Operations
+Mike Black,NA,mike_black@email.com,2018-08-06,98079,Marketing
+Jane Brown,NULL,jane_brown@web.org,2023-11-20,NULL,Sales
+Emily O'Connell,20,emily_o'connell@email.com,2017-10-19,NULL,Customer Support
+Tom White,52,tom_white@email.com,2025-08-27,76206,HR
+Sarah Black,NULL,sarah_black@web.org,2015-03-23,,Marketing
+Mary Johnson,20,mary_johnson@email.com,2016-04-24,,HR
+Mike O'Connell,46,mike_o'connell@web.org,2025-01-01,NULL,Marketing
+Mike Brown,45,mike_brown@email.com,2025-01-01,81766,HR
+Alex Black,NULL,alex_black@fake.com,2023-11-03,80646,Marketing
+Peter Smith,NULL,peter_smith@mail.net,2025-01-01,,IT
+Sarah Johnson,20,sarah_johnson@mail.net,2025-01-01,,Customer Support
+David O'Connell,52,david_o'connell@email.com,20/09/2020,NULL,Operations
+Mary Johnson,NA,mary_johnson@web.org,2024-04-08,,HR
+Tom Brown,NA,tom_brown@mail.net,2025-01-01,38877,Customer Support
+Tom O'Connell,49,tom_o'connell@mail.net,2016-05-24,71200,Sales
+Tom Smith,NA,tom_smith@fake.com,2024-03-23,99476,Operations
+NULL,20,invalid_email,2025-01-01,NULL,HR
+Sam Doe,NULL,sam_doe@fake.com,2018-07-21,,IT
+Alice White,20,alice_white@email.com,2020-02-05,56939,NULL
+Laura O'Connell,20,laura_o'connell@mail.net,2016-07-07,NULL,Operations
+Peter Green,NULL,peter_green@mail.net,17/03/2019,,Sales
+Mary Johnson,NULL,mary_johnson@email.com,28/04/2024,,Customer Support
+Alex Davis,NULL,invalid_email,22/02/2019,,Marketing
+Lisa Brown,29,invalid_email,2019-02-23,66962,NULL
+Alex O'Connell,NA,alex_o'connell@fake.com,2025-01-01,87769,Finance
+Chris Miller,NA,chris_miller@web.org,18/05/2019,50330,Marketing
+NULL,NA,invalid_email,2019-09-22,,Marketing
+Mary Smith,40,mary_smith@mail.net,2018-08-09,,Marketing
+NULL,43,invalid_email,2019-03-13,NULL,Operations
+Anna Johnson,NA,anna_johnson@web.org,24/02/2020,66591,Customer Support
+Emily Miller,NA,emily_miller@mail.net,2023-07-03,NULL,Operations
+Jane Smith,NA,jane_smith@email.com,21/04/2015,62923,NULL
+Anna Black,NULL,anna_black@fake.com,2025-01-01,47008,Customer Support
+Chris White,NA,chris_white@mail.net,2025-01-01,,Sales
+Tom Doe,NULL,tom_doe@mail.net,2025-01-01,63279,Sales
+Anna White,NA,anna_white@email.com,2025-01-01,43925,Customer Support
+Robert Brown,20,robert_brown@web.org,2025-04-08,35572,Marketing
+Mike Doe,NULL,mike_doe@web.org,2025-01-01,,Operations
+Sarah Doe,20,sarah_doe@email.com,2017-02-02,NULL,NULL
+Jane Doe,20,jane_doe@fake.com,2025-12-06,,NULL
+Robert Brown,20,robert_brown@email.com,2025-01-01,32776,HR
+Mary Doe,34,mary_doe@email.com,26/10/2016,,Operations
+Sarah Green,NULL,invalid_email,2023-02-01,,NULL
+Alice Davis,NULL,invalid_email,2025-01-01,NULL,Finance
+Alex Davis,NA,alex_davis@web.org,2021-11-10,65283,Customer Support
+Lisa Miller,NA,lisa_miller@fake.com,2021-07-05,83989,Marketing
+Jessica Doe,NULL,jessica_doe@email.com,2015-06-02,NULL,Finance
+Mary O'Connell,20,mary_o'connell@mail.net,19/04/2023,NULL,Customer Support
+David Doe,NA,invalid_email,2020-06-18,NULL,HR
+David Green,22,david_green@email.com,2024-08-19,NULL,NULL
+Anna Green,20,anna_green@mail.net,2018-04-13,NULL,NULL
+NULL,NULL,invalid_email,2019-03-28,NULL,HR
+Sam White,27,sam_white@mail.net,2025-01-01,NULL,IT
+Anna Smith,20,anna_smith@mail.net,2024-08-22,90762,Customer Support
+John Brown,NULL,john_brown@fake.com,2025-09-06,NULL,IT
+Emily O'Connell,NA,emily_o'connell@mail.net,2025-01-01,43732,HR
+James Miller,40,james_miller@fake.com,2019-08-02,,IT
+Peter Green,NULL,peter_green@mail.net,2016-03-02,,Marketing
+Jessica Brown,42,jessica_brown@fake.com,2025-07-07,74120,Operations
+Sarah Miller,51,sarah_miller@fake.com,2025-01-01,40287,NULL
+Sam White,20,invalid_email,2023-12-06,69669,Sales
+James Black,20,james_black@mail.net,2017-03-05,84535,IT
+NULL,NULL,invalid_email,2025-01-01,,Finance
+Jane O'Connell,NA,jane_o'connell@mail.net,2025-01-01,52409,IT
+Sarah Davis,55,sarah_davis@web.org,27/01/2017,NULL,Customer Support
+Lisa Black,20,lisa_black@email.com,2025-01-01,,Operations
+Jessica O'Connell,27,jessica_o'connell@mail.net,23/10/2025,,IT
+David Brown,20,david_brown@mail.net,2025-01-01,65060,HR
+Tom Doe,NA,tom_doe@email.com,2021-01-18,70191,NULL
+Anna O'Connell,NA,invalid_email,2020-07-14,NULL,NULL
+Sarah Black,57,invalid_email,22/08/2025,,Sales
+Chris Doe,20,chris_doe@web.org,2015-10-08,55914,Marketing
+Lisa Johnson,NULL,lisa_johnson@fake.com,28/08/2018,93531,IT
+Alice Miller,54,alice_miller@fake.com,2023-04-13,,NULL
+Jane Brown,49,jane_brown@web.org,2017-11-11,57921,Sales
+Sarah Davis,20,sarah_davis@mail.net,2016-09-21,NULL,Sales
+Lisa Doe,20,lisa_doe@web.org,2023-11-28,NULL,IT
+Robert Doe,21,robert_doe@fake.com,2016-12-11,NULL,Marketing
+Sam O'Connell,NULL,sam_o'connell@mail.net,2025-01-01,,NULL
+James Green,NULL,james_green@mail.net,2025-01-01,NULL,Marketing
+Laura Green,52,laura_green@web.org,2025-01-01,49971,Sales
+Lisa Miller,49,invalid_email,2016-12-03,87947,HR
+Mary O'Connell,NULL,mary_o'connell@fake.com,2025-01-01,NULL,Marketing
+Sarah Green,28,sarah_green@email.com,2021-09-05,NULL,Customer Support
+Emily Doe,NA,emily_doe@email.com,2021-07-18,86634,HR
+Peter O'Connell,NULL,peter_o'connell@email.com,2015-06-07,,Operations
+Jessica Miller,NULL,jessica_miller@fake.com,2019-01-09,32036,Customer Support
+Sam White,20,sam_white@fake.com,2016-10-02,,Marketing
+James Green,20,james_green@fake.com,2023-10-01,,NULL
+James O'Connell,NULL,james_o'connell@email.com,2023-02-23,NULL,Finance
+Sarah Black,NA,sarah_black@email.com,2019-12-20,,Operations
+David White,30,david_white@fake.com,19/10/2018,,Sales
+David Black,20,david_black@email.com,2020-05-10,75157,HR
+Emily Doe,20,emily_doe@email.com,2025-01-01,NULL,IT
+Jessica Davis,NULL,jessica_davis@web.org,25/03/2018,NULL,HR
+Sarah Johnson,NA,sarah_johnson@email.com,2025-01-01,,IT
+Anna O'Connell,59,anna_o'connell@mail.net,2019-11-08,,Operations
+Emily Black,NULL,emily_black@mail.net,2025-01-01,NULL,HR
+Lisa Black,NA,lisa_black@web.org,2020-09-06,61358,IT
+Peter Black,24,peter_black@fake.com,2018-01-17,NULL,Marketing
+Mike White,20,mike_white@mail.net,25/10/2022,NULL,NULL
+Chris Doe,NULL,chris_doe@web.org,2025-01-01,79539,HR
+Jessica Smith,38,jessica_smith@mail.net,2015-06-01,,Customer Support
+Emily Doe,NA,invalid_email,2025-01-01,NULL,IT
+Robert O'Connell,43,robert_o'connell@email.com,19/07/2016,NULL,Finance
+Emily Smith,52,emily_smith@fake.com,2020-11-25,,Sales
+Mike Brown,NULL,mike_brown@email.com,2015-01-04,NULL,Marketing
+Emily Green,NA,emily_green@web.org,2025-01-01,,Marketing
+John Smith,NA,john_smith@mail.net,2020-04-13,90593,IT
+Sarah Davis,NA,invalid_email,2022-02-06,NULL,HR
+NULL,NA,invalid_email,2017-02-18,,Customer Support
+Sarah Smith,NA,sarah_smith@fake.com,2019-10-01,NULL,Marketing
+Alice O'Connell,NULL,alice_o'connell@fake.com,2015-10-08,NULL,HR
+Laura Brown,43,laura_brown@email.com,2025-01-01,,IT
+James Black,NULL,invalid_email,2017-07-13,NULL,NULL
+Robert Green,NULL,robert_green@fake.com,2021-09-09,NULL,Operations
+Alice Green,NULL,alice_green@mail.net,2025-01-01,,NULL
+Laura Green,20,laura_green@web.org,2025-01-01,NULL,Marketing
+Mary Smith,32,mary_smith@web.org,27/10/2020,60352,Operations
+Tom Brown,52,tom_brown@web.org,17/11/2022,77828,Operations
+Mary Black,21,mary_black@web.org,2025-01-01,NULL,NULL
+Jessica White,56,invalid_email,2019-06-13,NULL,Marketing
+Mary Green,20,mary_green@fake.com,2020-06-02,90031,Marketing
+Lisa Miller,30,lisa_miller@fake.com,2025-01-01,NULL,Marketing
+NULL,NULL,invalid_email,15/02/2017,,Sales
+John Johnson,20,john_johnson@web.org,2025-01-01,NULL,NULL
+Jane Black,32,jane_black@web.org,2025-12-10,NULL,Customer Support
+Tom O'Connell,NULL,tom_o'connell@mail.net,2016-10-25,,NULL
+Peter Davis,NULL,peter_davis@fake.com,2025-01-01,NULL,Finance
+Alex Black,NA,alex_black@email.com,2016-07-12,,Operations
+Mary Brown,NA,mary_brown@mail.net,2025-11-02,,HR
+David Doe,20,david_doe@mail.net,2023-03-22,48821,Finance
+Jane Doe,NA,jane_doe@mail.net,2019-10-15,,NULL
+John Black,NULL,john_black@email.com,2016-04-04,NULL,Operations
+Sarah Miller,NA,sarah_miller@fake.com,2015-11-03,NULL,Operations
+Tom Doe,47,tom_doe@web.org,2023-01-01,,Finance
+Jessica Doe,NULL,jessica_doe@web.org,17/12/2025,35727,Operations
+Sam Miller,NULL,sam_miller@fake.com,2025-01-01,NULL,Sales
+Robert Doe,NULL,robert_doe@email.com,2022-09-28,,Operations
+James Smith,20,james_smith@web.org,2020-11-05,,Customer Support
+Robert Johnson,20,robert_johnson@mail.net,2025-01-01,NULL,NULL
+Alice Johnson,20,alice_johnson@web.org,2018-04-09,NULL,Sales
+Sam Davis,20,sam_davis@mail.net,2019-06-20,,Marketing
+NULL,NA,invalid_email,2018-07-17,53690,Customer Support
+Laura Davis,20,laura_davis@mail.net,2025-01-01,NULL,HR
+Anna White,47,anna_white@mail.net,2025-04-15,,HR
+Peter Green,NULL,peter_green@mail.net,2025-01-01,74716,Marketing
+Jessica Black,43,jessica_black@mail.net,2019-11-13,,NULL
+Jessica Doe,NA,jessica_doe@fake.com,2025-01-01,NULL,Operations
+Chris Brown,20,chris_brown@fake.com,2025-02-19,NULL,Marketing
+Laura Black,NULL,laura_black@fake.com,2024-10-02,NULL,HR
+David Johnson,NULL,david_johnson@fake.com,2025-09-12,74754,Marketing
+Anna Smith,NULL,anna_smith@email.com,2025-06-07,NULL,Operations
+Jane White,NULL,jane_white@fake.com,2021-06-18,,HR
+Anna Johnson,38,anna_johnson@fake.com,2025-01-01,,HR
+Emily Brown,60,emily_brown@email.com,2025-01-01,,Sales
+Sarah Johnson,29,sarah_johnson@email.com,2024-07-01,NULL,Finance
+Chris Doe,54,chris_doe@email.com,2024-09-09,64609,Operations
+Laura White,27,laura_white@fake.com,2025-01-01,,Operations
+Mike Johnson,20,mike_johnson@mail.net,2025-01-01,NULL,NULL
+Chris White,20,chris_white@fake.com,2019-04-18,69462,Finance
+Laura Brown,NULL,laura_brown@mail.net,23/07/2021,43019,IT
+Anna O'Connell,NA,anna_o'connell@fake.com,2024-01-16,67915,Customer Support
+Chris Brown,NA,chris_brown@fake.com,2024-08-20,NULL,Marketing
+Tom Doe,25,tom_doe@web.org,2015-01-23,,IT
+Robert Smith,50,invalid_email,2023-04-10,NULL,IT
+Sam Miller,NULL,sam_miller@mail.net,2023-12-12,NULL,Marketing
+Anna O'Connell,20,anna_o'connell@email.com,2025-01-01,,Operations
+Sarah Smith,NA,sarah_smith@email.com,2015-03-15,,HR
+David Davis,20,david_davis@email.com,2025-01-01,66493,Finance
+James Smith,NA,james_smith@fake.com,2025-01-01,NULL,Sales
+NULL,20,invalid_email,2025-01-01,,Sales
+Mary Black,55,mary_black@web.org,2020-07-23,94432,Marketing
+Sam Miller,20,sam_miller@email.com,2025-01-01,,IT
+Sarah Green,NULL,sarah_green@email.com,2023-10-15,,NULL
+Emily Doe,20,emily_doe@mail.net,2025-01-01,66742,IT
+Emily Johnson,20,emily_johnson@web.org,2025-01-01,58593,Operations
+Jane Green,20,jane_green@fake.com,2025-06-24,,Operations
+Tom O'Connell,20,tom_o'connell@mail.net,16/02/2024,NULL,Customer Support
+Mike White,42,mike_white@web.org,2021-06-03,NULL,HR
+Alice O'Connell,NULL,alice_o'connell@fake.com,17/02/2015,,IT
+Mike O'Connell,51,mike_o'connell@web.org,2017-08-11,NULL,HR
+Alice Brown,37,alice_brown@email.com,2025-01-01,,Marketing
+Jane White,NULL,jane_white@email.com,2022-07-01,NULL,Finance
+James Miller,57,james_miller@mail.net,2018-07-23,78605,Operations
+Anna O'Connell,NA,anna_o'connell@mail.net,2025-01-01,,Operations
+Jessica Davis,NA,jessica_davis@fake.com,2025-01-01,46762,Finance
+Alex Doe,NA,alex_doe@web.org,21/08/2021,,IT
+Robert Black,20,robert_black@fake.com,2015-06-04,NULL,Marketing
+Robert White,NA,invalid_email,2020-10-06,67992,Finance
+James O'Connell,20,james_o'connell@fake.com,2019-10-18,,HR
+Tom Davis,42,tom_davis@web.org,2018-08-07,,Customer Support
+Jessica Green,50,jessica_green@fake.com,2018-06-03,,NULL
+Alex Brown,20,alex_brown@web.org,2015-11-03,,Operations
+Sarah Green,NA,sarah_green@mail.net,2025-01-01,57383,HR
+NULL,20,invalid_email,28/11/2024,44677,NULL
+Laura Smith,48,laura_smith@web.org,2024-11-25,87107,NULL
+Lisa Doe,39,lisa_doe@fake.com,2018-09-19,NULL,Sales
+Robert Green,56,robert_green@web.org,2023-09-17,NULL,Sales
+John White,NULL,john_white@mail.net,2022-12-04,34987,Sales
+Peter Miller,56,peter_miller@fake.com,2025-01-01,,Marketing
+Chris White,41,chris_white@web.org,2025-01-01,NULL,Sales
+Mary White,NA,invalid_email,2024-10-01,,Customer Support
+Alice Davis,22,alice_davis@mail.net,14/12/2024,91885,Finance
+Sam White,30,invalid_email,2019-04-22,,IT
+Sarah Davis,NULL,sarah_davis@fake.com,2025-07-11,70044,Sales
+Jane Doe,35,jane_doe@mail.net,2017-12-01,NULL,NULL
+Robert Doe,NULL,invalid_email,2024-09-15,67268,Sales
+David Davis,NA,david_davis@email.com,2024-06-23,95400,NULL
+Emily Davis,NULL,invalid_email,16/09/2017,NULL,Customer Support
+Tom Miller,20,tom_miller@mail.net,2016-03-05,92984,Sales
+Peter Green,NA,peter_green@email.com,2020-11-27,,Operations
+David Brown,NULL,david_brown@fake.com,24/09/2024,75015,Sales
+Mike Doe,NULL,mike_doe@mail.net,2016-04-23,53135,HR
+Tom Green,20,tom_green@email.com,2023-07-06,NULL,Finance
+Alex Johnson,NULL,alex_johnson@web.org,2016-04-10,65522,Marketing
+James Black,46,james_black@web.org,2016-07-08,93919,HR
+Mary O'Connell,49,mary_o'connell@fake.com,27/11/2023,94752,Finance
+Tom Green,38,tom_green@fake.com,2025-01-01,NULL,Finance
+John Brown,NA,john_brown@email.com,2025-01-01,NULL,Customer Support
+Alex Green,22,alex_green@web.org,2015-12-08,NULL,IT
+Tom Doe,20,tom_doe@mail.net,2016-09-10,,Finance
+Robert Green,20,robert_green@email.com,2020-09-02,,Sales
+James O'Connell,52,james_o'connell@web.org,2025-01-01,,Finance
+Mary O'Connell,NULL,invalid_email,2025-01-01,,NULL
+Mary Black,NULL,mary_black@mail.net,25/06/2025,NULL,Marketing
+Anna Brown,20,anna_brown@fake.com,2022-03-02,,Sales
+Tom O'Connell,20,tom_o'connell@fake.com,2016-06-12,,Operations
+Mike Davis,NULL,mike_davis@fake.com,2020-03-11,NULL,NULL
+Peter Davis,45,peter_davis@email.com,2021-11-02,,Customer Support
+Sam Doe,20,invalid_email,2015-08-22,NULL,NULL
+Sarah White,NULL,sarah_white@web.org,2025-11-16,NULL,IT
+Tom Doe,NA,tom_doe@mail.net,2021-09-02,94126,NULL
+Anna White,NA,anna_white@mail.net,2019-02-10,95721,Customer Support
+Alice Brown,NA,alice_brown@fake.com,2015-07-01,90583,IT
+Mary Brown,NA,mary_brown@web.org,2021-07-09,54265,HR
+David Black,20,invalid_email,13/04/2023,NULL,IT
+NULL,20,invalid_email,2018-12-28,45814,Customer Support
+Robert White,20,robert_white@web.org,2020-11-27,NULL,Marketing
+Robert O'Connell,NA,invalid_email,2020-12-05,,NULL
+Mary Miller,NA,mary_miller@web.org,2020-05-20,,Finance
+Lisa Green,56,lisa_green@email.com,2025-01-01,,NULL
+Anna Smith,NA,anna_smith@email.com,2019-09-18,,NULL
+Robert Green,NULL,robert_green@email.com,2018-07-19,98036,Operations
+James Johnson,NULL,james_johnson@web.org,2025-01-01,NULL,Customer Support
+Chris O'Connell,NULL,chris_o'connell@fake.com,2017-03-03,73333,Sales
+Lisa Davis,20,lisa_davis@mail.net,2015-06-19,NULL,Marketing
+John Miller,NA,john_miller@fake.com,2023-10-04,NULL,NULL
+James O'Connell,NULL,james_o'connell@fake.com,2025-01-01,,Customer Support
+Laura White,43,laura_white@email.com,2020-04-03,,Customer Support
+Lisa White,21,lisa_white@web.org,14/12/2018,93941,HR
+Mike Black,20,invalid_email,2025-01-01,44864,Finance
+Mike Brown,NULL,invalid_email,2017-03-01,,NULL
+Robert O'Connell,NULL,robert_o'connell@fake.com,2025-01-01,,HR
+Jane Miller,20,jane_miller@web.org,2025-01-01,,NULL
+John O'Connell,NA,john_o'connell@email.com,2022-01-10,,Marketing
+Chris Davis,60,chris_davis@mail.net,2019-08-24,NULL,IT
+NULL,NULL,invalid_email,2025-01-01,83467,Customer Support
+James Green,54,james_green@mail.net,2024-06-18,NULL,NULL
+NULL,20,invalid_email,24/02/2022,,Sales
+Emily Brown,20,emily_brown@email.com,2019-06-25,,Sales
+NULL,NA,invalid_email,2018-11-08,NULL,Customer Support
+Sam White,20,sam_white@mail.net,2017-06-13,NULL,IT
+Mary White,20,mary_white@web.org,2022-12-06,89022,Customer Support
+Lisa Johnson,NA,lisa_johnson@fake.com,18/11/2019,33492,IT
+John O'Connell,NA,john_o'connell@mail.net,2022-01-26,NULL,IT
+Sam Miller,NULL,sam_miller@email.com,2025-01-01,33232,Marketing
+Tom Johnson,59,tom_johnson@email.com,2016-11-24,NULL,Finance
+Laura Doe,NA,laura_doe@fake.com,2018-05-16,,Finance
+Mary Doe,NULL,mary_doe@web.org,2016-09-07,53524,Customer Support
+Mike White,NA,mike_white@email.com,2020-03-27,NULL,IT
+Jane Black,28,jane_black@mail.net,2022-06-28,NULL,Marketing
+Sam White,20,sam_white@web.org,2025-01-01,NULL,Marketing
+Chris O'Connell,20,chris_o'connell@email.com,2020-02-11,30075,Sales
+David White,56,david_white@mail.net,2025-01-01,NULL,IT
+Chris Johnson,20,chris_johnson@fake.com,2025-01-01,,HR
+Sarah Black,20,sarah_black@web.org,2025-01-01,NULL,IT
+Laura Davis,20,laura_davis@mail.net,2025-01-01,,Finance
+Jessica Davis,20,jessica_davis@web.org,2023-09-05,NULL,IT
+James Black,20,james_black@mail.net,2021-05-23,75913,Marketing
+Tom Smith,20,tom_smith@web.org,28/03/2025,,Marketing
+Robert White,NULL,robert_white@email.com,2025-01-01,75408,NULL
+Alex Green,20,alex_green@web.org,2025-01-01,,Finance
+Jessica Doe,20,jessica_doe@mail.net,2015-12-09,,NULL
+John Smith,NULL,invalid_email,2025-01-01,37843,HR
+NULL,20,invalid_email,2019-08-15,57483,NULL
+Sam Doe,NULL,sam_doe@web.org,2025-01-01,97876,NULL
+James Miller,NA,james_miller@fake.com,2025-01-01,NULL,HR
+Alice Davis,20,alice_davis@web.org,2025-12-08,,Operations
+NULL,NULL,invalid_email,2020-11-18,,Operations
+Jane Black,20,jane_black@fake.com,2025-01-01,,HR
+Alice O'Connell,NA,alice_o'connell@fake.com,26/10/2018,42289,HR
+Tom Doe,NULL,tom_doe@mail.net,2023-10-08,,HR
+Peter White,NA,peter_white@fake.com,2023-02-25,NULL,Marketing
+Alex Davis,NULL,invalid_email,2020-06-24,NULL,HR
+Peter Doe,20,peter_doe@email.com,2025-08-12,,IT
+Laura Doe,20,laura_doe@mail.net,2025-01-01,,Finance
+John Smith,NULL,john_smith@mail.net,2018-02-01,NULL,Marketing
+Anna Green,NULL,anna_green@email.com,2023-03-05,,Finance
+James Black,20,james_black@mail.net,26/03/2024,,HR
+Jessica Green,NULL,jessica_green@fake.com,2018-10-17,,Marketing
+Alice Green,49,alice_green@fake.com,2025-09-15,,IT
+Jessica Black,20,jessica_black@mail.net,2016-10-09,,NULL
+Chris O'Connell,NA,chris_o'connell@email.com,2025-01-01,33247,Finance
+Alice Doe,NA,alice_doe@mail.net,2025-01-01,,Sales
+Robert Davis,20,robert_davis@mail.net,2018-03-28,96581,Sales
+Emily Doe,20,emily_doe@mail.net,2025-01-01,NULL,Marketing
+Sarah Doe,41,sarah_doe@email.com,2023-11-06,NULL,Operations
+Alice Miller,NULL,alice_miller@email.com,2020-09-14,,HR
+Anna Black,20,anna_black@mail.net,2025-03-06,36899,Finance
+Chris Brown,20,chris_brown@email.com,2022-07-21,,Operations
+Chris Green,20,invalid_email,2019-11-22,,Sales
+Mike Doe,NULL,mike_doe@fake.com,2025-01-01,NULL,Customer Support
+Tom O'Connell,NA,tom_o'connell@fake.com,2019-08-06,NULL,Sales
+David Green,NULL,david_green@email.com,2024-07-09,96183,Finance
+Tom White,20,tom_white@web.org,16/03/2021,95362,NULL
+Laura Brown,20,laura_brown@mail.net,2025-01-01,,Customer Support
+Laura Black,20,laura_black@mail.net,2019-06-05,NULL,Finance
+Jessica White,NA,jessica_white@fake.com,2025-01-01,NULL,IT
+Mike Smith,NA,mike_smith@mail.net,2018-09-09,,Sales
+Sam Johnson,NULL,sam_johnson@fake.com,2025-01-01,NULL,Operations
+Alice Smith,59,alice_smith@email.com,2025-01-01,89500,Operations
+James Smith,NULL,invalid_email,2023-06-19,,Sales
+Lisa Johnson,NULL,lisa_johnson@fake.com,2025-01-01,NULL,Sales
+Alex Green,NA,alex_green@mail.net,2025-01-01,33781,Finance
+NULL,NA,invalid_email,20/07/2017,61608,HR
+James Miller,NA,james_miller@fake.com,2016-09-04,NULL,Marketing
+NULL,NA,invalid_email,23/10/2021,94756,Marketing
+Laura Davis,26,invalid_email,2025-01-01,,Finance
+Alex Miller,56,alex_miller@web.org,2017-09-01,NULL,Finance
+Alex Smith,30,alex_smith@mail.net,2025-11-09,83071,NULL
+Laura Johnson,NA,laura_johnson@mail.net,2018-04-16,54278,Sales
+Peter O'Connell,NULL,peter_o'connell@mail.net,2017-01-27,,NULL
+John Davis,30,invalid_email,2017-04-17,,Finance
+Lisa O'Connell,NA,lisa_o'connell@web.org,2025-08-09,NULL,Sales
+NULL,20,invalid_email,2017-06-07,NULL,NULL
+James O'Connell,NULL,james_o'connell@email.com,27/07/2024,45731,HR
+David Green,NA,david_green@web.org,2021-05-06,NULL,Sales
+Mary Green,20,mary_green@web.org,2023-11-24,59925,Sales
+Robert Black,26,robert_black@email.com,2016-10-16,NULL,Customer Support
+James Miller,36,invalid_email,2021-12-08,,NULL
+Emily Green,33,emily_green@mail.net,2021-06-02,NULL,Customer Support
+Mary White,42,mary_white@fake.com,15/04/2021,NULL,Customer Support
+Peter White,32,invalid_email,28/08/2015,,Finance
+Jessica Brown,NULL,jessica_brown@mail.net,2025-06-10,NULL,Finance
+Peter Johnson,39,peter_johnson@mail.net,28/05/2025,37424,Operations
+Laura Miller,NULL,laura_miller@fake.com,2025-12-19,,Marketing
+Anna Miller,20,anna_miller@mail.net,2024-09-14,38210,Sales
+NULL,NULL,invalid_email,2025-12-11,62129,IT
+Laura O'Connell,20,laura_o'connell@email.com,2025-01-01,NULL,Customer Support
+David White,20,david_white@fake.com,2021-07-02,NULL,Marketing
+Emily Davis,NULL,emily_davis@mail.net,2018-10-23,NULL,Marketing
+Tom Green,20,tom_green@web.org,2016-12-07,NULL,Marketing
+Robert Brown,NULL,robert_brown@fake.com,2025-01-01,81357,HR
+Sarah Green,NULL,sarah_green@fake.com,2023-12-08,69438,Customer Support
+Lisa Green,20,lisa_green@web.org,2016-02-06,NULL,Operations
+Mary O'Connell,54,mary_o'connell@mail.net,2025-01-01,NULL,IT
+David Davis,39,invalid_email,2025-01-01,87322,IT
+Mike Davis,NULL,mike_davis@fake.com,2016-12-04,56594,Sales
+Jane Miller,NULL,jane_miller@web.org,2016-03-14,,Finance
+James Davis,29,james_davis@email.com,2020-10-19,55553,Finance
+Chris Doe,NA,chris_doe@mail.net,16/03/2021,88983,Finance
+David Doe,NA,david_doe@mail.net,2023-04-06,,Customer Support
+Anna O'Connell,NULL,anna_o'connell@email.com,2019-08-05,NULL,Marketing
+Robert Smith,20,robert_smith@email.com,2025-01-01,,Sales
+Laura Johnson,NULL,laura_johnson@fake.com,2022-01-18,,Sales
+Sarah Johnson,NA,invalid_email,25/06/2019,,NULL
+Sam Davis,20,sam_davis@mail.net,2022-01-12,67012,Marketing
+James White,NA,james_white@web.org,13/04/2015,47519,Finance
+Alice Smith,58,alice_smith@web.org,2020-08-23,NULL,Finance
+Robert O'Connell,23,robert_o'connell@web.org,2019-09-24,NULL,Marketing
+David Davis,20,david_davis@fake.com,2024-02-09,,HR
+Laura White,20,laura_white@mail.net,2025-02-12,,Operations
+David White,27,david_white@web.org,2018-07-11,,Marketing
+Sarah Doe,20,sarah_doe@mail.net,2025-01-01,NULL,HR
+Emily Brown,20,emily_brown@mail.net,2025-01-01,72212,Sales
+Sarah Miller,20,sarah_miller@web.org,2025-01-01,,Customer Support
+Lisa Doe,NA,lisa_doe@fake.com,2023-01-22,,Customer Support
+Sarah White,NULL,sarah_white@email.com,2022-03-17,82937,IT
+Sarah Black,54,invalid_email,2021-07-10,NULL,NULL
+Mike Doe,44,mike_doe@web.org,2021-08-20,,HR
+Sarah Green,NA,sarah_green@fake.com,25/04/2024,,NULL
+Jessica Black,20,jessica_black@mail.net,2025-01-01,,Sales
+Jessica Johnson,44,invalid_email,2022-05-15,41126,Marketing
+Jessica O'Connell,20,jessica_o'connell@mail.net,2025-11-06,,Sales
+Alice O'Connell,NULL,alice_o'connell@web.org,2019-10-26,NULL,NULL
+Jessica Brown,NULL,jessica_brown@fake.com,2016-01-12,NULL,Customer Support
+John O'Connell,22,john_o'connell@email.com,2016-07-05,51039,IT
+Jessica Johnson,NULL,jessica_johnson@email.com,2025-01-01,,Customer Support
+Chris Johnson,NULL,chris_johnson@mail.net,2023-01-23,NULL,Marketing
+Peter Miller,20,peter_miller@web.org,2025-04-15,NULL,Sales
+Mary Smith,NA,mary_smith@fake.com,21/01/2017,67366,Operations
+Jane Smith,35,jane_smith@web.org,25/07/2015,NULL,Customer Support
+Sam White,NA,sam_white@fake.com,2025-01-01,NULL,Operations
+NULL,NULL,invalid_email,2021-11-23,,Customer Support
+Lisa Johnson,NULL,lisa_johnson@web.org,2024-12-11,,Sales
+Jane Johnson,29,jane_johnson@email.com,18/08/2017,,IT
+Mary Davis,NULL,mary_davis@web.org,2020-02-22,,IT
+Peter Doe,NA,peter_doe@email.com,2025-01-01,,IT
+Laura O'Connell,57,laura_o'connell@web.org,2025-01-01,NULL,Customer Support
+Anna Smith,NA,anna_smith@fake.com,2021-08-28,NULL,IT
+Jane Davis,20,jane_davis@email.com,21/03/2019,75233,Operations
+NULL,NA,invalid_email,2017-11-17,,Marketing
+James Brown,NULL,james_brown@web.org,2025-01-01,,Customer Support
+Peter O'Connell,NULL,invalid_email,15/03/2024,49155,Operations
+Lisa Miller,NA,lisa_miller@email.com,2025-01-01,93986,IT
+Tom Miller,NULL,tom_miller@mail.net,2023-01-11,NULL,HR
+NULL,NULL,invalid_email,2020-04-18,58533,NULL
+Anna Doe,NULL,anna_doe@mail.net,2017-07-03,66503,Operations
+Peter White,20,peter_white@web.org,2025-01-01,NULL,Finance
+James White,20,james_white@web.org,2015-12-06,NULL,Customer Support
+Peter Brown,20,peter_brown@mail.net,20/12/2018,82677,NULL
+Peter Black,NULL,peter_black@email.com,2015-04-23,35391,NULL
+Robert Miller,NA,invalid_email,2025-01-01,NULL,Marketing
+James Miller,51,james_miller@mail.net,2023-05-18,,Finance
+Jessica Davis,59,jessica_davis@fake.com,22/01/2022,72188,NULL
+Robert White,40,robert_white@mail.net,2017-03-21,88480,Operations
+Anna O'Connell,20,anna_o'connell@web.org,2025-01-01,,Sales
+Anna Green,NA,anna_green@email.com,2025-01-01,NULL,Operations
+Jessica Brown,20,jessica_brown@fake.com,2025-01-01,32186,Finance
+Lisa Black,27,lisa_black@email.com,2020-04-21,,Operations
+Mike O'Connell,NULL,invalid_email,22/09/2018,33793,HR
+Lisa Black,NULL,lisa_black@email.com,2025-01-01,43167,Finance
+Peter White,NULL,peter_white@web.org,2025-01-01,NULL,Sales
+Alice O'Connell,20,alice_o'connell@mail.net,2015-08-10,37574,NULL
+John Davis,NA,invalid_email,2022-01-19,NULL,Sales
+Emily Miller,NA,emily_miller@fake.com,2015-07-13,,Customer Support
+Jane Davis,20,jane_davis@email.com,2015-12-17,,Finance
+David Miller,34,david_miller@web.org,2022-12-02,79898,IT
+Jane Green,59,jane_green@email.com,2020-02-28,51397,NULL
+Jessica Davis,57,jessica_davis@email.com,2017-09-04,NULL,Finance
+Mary Black,NULL,mary_black@mail.net,14/02/2016,NULL,IT
+Mike Davis,35,mike_davis@mail.net,2025-01-01,51826,Sales
+Chris Green,NA,chris_green@mail.net,20/03/2020,NULL,NULL
+Sam White,55,sam_white@mail.net,2025-01-01,,Customer Support
+David Green,42,david_green@web.org,2025-01-01,77445,IT
+Chris Davis,20,chris_davis@mail.net,2023-04-20,NULL,HR
+Emily Smith,20,emily_smith@email.com,2020-08-10,,NULL
+Sam Johnson,NULL,sam_johnson@fake.com,2025-01-01,NULL,Finance
+James Doe,55,james_doe@fake.com,2016-12-04,,Operations
+John Smith,NULL,john_smith@email.com,2025-01-01,,Marketing
+James Johnson,20,james_johnson@email.com,2025-01-01,76042,HR
+Tom Davis,20,tom_davis@fake.com,16/03/2024,91680,IT
+Peter Black,NA,peter_black@email.com,27/11/2024,,Finance
+NULL,57,invalid_email,2020-06-13,,Sales
+Sam Green,NULL,sam_green@mail.net,2025-01-01,NULL,Sales
+Sarah O'Connell,20,sarah_o'connell@email.com,2016-10-13,NULL,HR
+Alice Doe,20,alice_doe@email.com,2025-01-01,,HR
+Lisa Green,31,lisa_green@mail.net,2024-10-25,48524,Sales
+Anna Doe,NA,anna_doe@mail.net,2025-01-01,,IT
+Mary Brown,NA,mary_brown@email.com,2025-01-01,,Sales
+Laura Brown,20,laura_brown@email.com,2025-01-01,,Finance
+Jane Brown,NA,jane_brown@fake.com,2025-01-01,NULL,HR
+James White,NULL,james_white@email.com,2015-05-01,,Operations
+Chris Davis,55,invalid_email,2021-05-25,,Sales
+Robert O'Connell,50,robert_o'connell@email.com,2025-01-01,,Finance
+Anna O'Connell,20,anna_o'connell@email.com,2018-01-18,,NULL
+Alice Green,20,alice_green@mail.net,2018-12-10,,Customer Support
+Lisa Smith,NA,lisa_smith@mail.net,2015-05-05,NULL,IT
+Mary Black,20,mary_black@mail.net,2025-01-01,,IT
+David O'Connell,20,david_o'connell@fake.com,2025-01-01,46782,Finance
+Mary Doe,NA,mary_doe@web.org,2020-11-12,,Operations
+Jessica Doe,NULL,jessica_doe@mail.net,2025-01-01,,IT
+Sarah Johnson,NA,sarah_johnson@web.org,2016-02-01,,IT
+Tom Green,NULL,tom_green@mail.net,28/03/2024,,IT
+Sam White,55,sam_white@mail.net,2020-04-26,,Operations
+Alex O'Connell,NA,alex_o'connell@mail.net,2025-01-01,NULL,HR
+Sarah Miller,20,sarah_miller@fake.com,2025-01-01,NULL,HR
+James White,NA,james_white@mail.net,28/09/2022,,Finance
+Emily Brown,NULL,emily_brown@fake.com,2025-01-01,98652,HR
+Alice Doe,53,alice_doe@web.org,2025-01-01,NULL,HR
+Jessica Smith,NA,jessica_smith@mail.net,2023-06-05,,Operations
+Anna Green,NA,anna_green@fake.com,2021-04-01,NULL,Customer Support
+Jane O'Connell,NULL,jane_o'connell@fake.com,2025-01-01,80628,HR
+Lisa O'Connell,NA,lisa_o'connell@fake.com,2021-05-09,NULL,NULL
+Tom Davis,27,tom_davis@mail.net,2017-05-17,NULL,HR
+Sam Doe,20,invalid_email,2019-07-22,,Marketing
+Laura Brown,20,laura_brown@mail.net,2020-07-11,NULL,Marketing
+David Smith,NULL,david_smith@mail.net,2015-05-06,69521,IT
+Alice Davis,NA,alice_davis@web.org,2021-08-03,NULL,Marketing
+Sarah Black,20,sarah_black@fake.com,2019-11-06,,IT
+Lisa Johnson,NA,lisa_johnson@email.com,2018-05-14,NULL,Marketing
+Sam Smith,NA,invalid_email,2022-02-17,34118,Finance
+John Brown,52,john_brown@mail.net,17/03/2020,61423,Operations
+Lisa Miller,NULL,lisa_miller@email.com,16/09/2019,,HR
+Peter Miller,NA,peter_miller@web.org,2017-12-21,,Finance
+Jessica Doe,NA,jessica_doe@mail.net,2021-03-04,,Customer Support
+Alex Miller,NA,alex_miller@fake.com,2021-09-11,NULL,Finance
+Peter O'Connell,20,peter_o'connell@web.org,17/11/2025,,Operations
+Anna Black,48,anna_black@mail.net,2025-01-01,,IT
+Alex Green,20,alex_green@mail.net,2025-01-01,NULL,Finance
+Robert Miller,NULL,robert_miller@web.org,2018-05-14,,Sales
+David Davis,49,invalid_email,2015-03-24,NULL,Finance
+Alex Green,35,alex_green@fake.com,2019-01-05,52372,Sales
+Laura Miller,NULL,laura_miller@web.org,2015-10-09,NULL,Customer Support
+Anna Green,NA,anna_green@email.com,19/08/2016,NULL,Operations
+Mike O'Connell,20,mike_o'connell@fake.com,2025-09-07,NULL,Operations
+NULL,20,invalid_email,2025-01-01,61353,Finance
+Jane Davis,20,invalid_email,28/10/2022,91739,NULL
+James Smith,NULL,james_smith@mail.net,2020-08-21,NULL,Finance
+Alice White,40,invalid_email,2021-07-10,79852,Finance
+Jessica White,NA,jessica_white@fake.com,2020-04-03,NULL,Marketing
+Jessica O'Connell,44,jessica_o'connell@mail.net,23/10/2017,42517,HR
+Jane Brown,37,jane_brown@mail.net,21/09/2016,,IT
+Sam Johnson,NA,sam_johnson@email.com,2017-04-23,,Sales
+Robert Brown,NA,robert_brown@fake.com,2017-08-02,NULL,NULL
+Anna White,NA,anna_white@email.com,13/03/2020,35853,Operations
+Anna White,NA,anna_white@fake.com,2022-10-24,59388,IT
+Jessica Smith,31,jessica_smith@mail.net,26/11/2023,,Sales
+Jessica Miller,NULL,jessica_miller@fake.com,2025-01-01,NULL,Sales
+Emily Black,20,emily_black@mail.net,2023-10-06,NULL,Finance
+Anna Doe,20,anna_doe@mail.net,2022-02-14,NULL,NULL
+Chris Smith,20,invalid_email,2017-02-07,,HR
+Lisa O'Connell,43,lisa_o'connell@mail.net,2025-01-01,96282,HR
+Lisa O'Connell,20,lisa_o'connell@web.org,2025-01-01,,HR
+Robert Green,35,robert_green@web.org,2021-04-22,NULL,Finance
+Emily Johnson,NULL,emily_johnson@mail.net,2022-11-04,NULL,Finance
+Sam O'Connell,NA,sam_o'connell@fake.com,2022-07-01,62476,Customer Support
+James Green,NULL,james_green@email.com,2024-03-04,,HR
+Laura Miller,20,invalid_email,2019-09-16,,IT
+NULL,NULL,invalid_email,2025-01-01,NULL,Customer Support
+Mary O'Connell,20,mary_o'connell@fake.com,2024-04-23,,NULL
+David Johnson,43,david_johnson@mail.net,2020-12-04,,HR
+David Johnson,41,invalid_email,27/02/2015,NULL,NULL
+Chris Doe,20,chris_doe@mail.net,2025-01-01,,Sales
+Lisa White,NA,lisa_white@web.org,2019-07-01,,HR
+Jane Miller,20,jane_miller@web.org,2025-01-01,NULL,Sales
+Jessica Johnson,NA,jessica_johnson@web.org,2022-12-27,,IT
+Lisa White,20,lisa_white@mail.net,2017-04-05,NULL,HR
+David Black,20,david_black@mail.net,2025-09-11,NULL,Customer Support
+Alice Green,NA,alice_green@fake.com,24/03/2021,,IT
+Laura Brown,43,laura_brown@mail.net,2025-12-10,,Sales
+Sam Brown,20,sam_brown@fake.com,2019-10-12,90317,NULL
+Mary White,20,mary_white@fake.com,2025-06-04,64559,Customer Support
+Sarah Black,20,sarah_black@web.org,2025-01-01,44496,IT
+Laura Green,NULL,laura_green@fake.com,2020-02-02,,Finance
+Jessica Doe,NULL,jessica_doe@mail.net,2025-10-02,,Marketing
+Anna Green,20,anna_green@email.com,28/12/2023,,Operations
+Tom Doe,NULL,invalid_email,19/06/2019,NULL,Marketing
+David Smith,60,david_smith@email.com,2018-05-18,66848,NULL
+Tom Doe,NULL,tom_doe@mail.net,2020-04-07,NULL,Customer Support
+Mike Davis,NULL,mike_davis@mail.net,2023-12-11,,NULL
+Mary Miller,20,mary_miller@mail.net,2020-11-14,40528,Finance
+Robert Doe,27,robert_doe@mail.net,2025-01-01,79823,IT
+Chris O'Connell,34,chris_o'connell@web.org,2025-01-01,NULL,NULL
+Chris Doe,NULL,chris_doe@mail.net,17/12/2025,NULL,Operations
+Chris Doe,NULL,chris_doe@web.org,2018-05-24,NULL,NULL
+David O'Connell,20,david_o'connell@mail.net,2016-03-25,,NULL
+John O'Connell,NULL,john_o'connell@web.org,26/11/2022,71404,Marketing
+David Miller,20,david_miller@email.com,2025-09-20,54466,Finance
+John Miller,NULL,john_miller@fake.com,2021-11-11,33626,Sales
+Jane Davis,20,jane_davis@email.com,2025-12-06,,NULL
+John O'Connell,NULL,john_o'connell@web.org,2025-01-01,,Sales
+Peter Brown,20,peter_brown@email.com,2020-05-11,44171,Marketing
+Alex Black,41,alex_black@fake.com,2025-01-01,NULL,IT
+Mike Davis,NULL,invalid_email,2024-02-04,30343,Sales
+David White,44,david_white@mail.net,2025-01-01,52446,NULL
+Laura Miller,23,laura_miller@web.org,2022-05-14,53503,IT
+Jane Brown,NULL,jane_brown@fake.com,2019-05-19,NULL,Marketing
+Anna Miller,36,anna_miller@email.com,2017-05-21,,NULL
+Tom Brown,NULL,tom_brown@fake.com,2025-01-01,NULL,HR
+Mary Black,NULL,mary_black@fake.com,2023-07-06,82165,Operations
+Jessica Johnson,41,jessica_johnson@mail.net,2025-01-01,99350,Operations
+Jane O'Connell,NULL,jane_o'connell@fake.com,2025-01-01,,HR
+Emily Black,NA,emily_black@fake.com,2025-01-01,48350,IT
+David Green,NA,david_green@web.org,2018-10-08,NULL,Operations
+Tom Johnson,20,tom_johnson@fake.com,2022-06-24,89851,IT
+Jessica Brown,NA,jessica_brown@web.org,2016-01-16,38143,Finance
+Robert Davis,NULL,invalid_email,2020-03-14,,Operations
+John Green,20,john_green@email.com,2018-05-05,,Finance
+Anna Green,20,anna_green@email.com,2024-01-24,NULL,Customer Support
+Alice Davis,NA,alice_davis@web.org,2025-01-01,,Finance
+Robert Smith,60,robert_smith@email.com,2021-07-07,,Finance
+Robert Davis,NA,robert_davis@mail.net,2019-03-01,,Finance
+Jane White,20,jane_white@fake.com,2017-03-18,,NULL
+Emily O'Connell,20,emily_o'connell@web.org,2016-07-08,,NULL
+Robert White,NA,robert_white@fake.com,2025-01-01,NULL,Marketing
+James Davis,NULL,james_davis@web.org,2016-05-15,,Customer Support
+Jane Davis,21,jane_davis@email.com,2016-01-17,85150,Customer Support
+Peter O'Connell,20,invalid_email,2025-01-01,91026,HR
+Jessica Smith,NA,jessica_smith@email.com,2021-11-07,NULL,Finance
+Sarah Black,20,sarah_black@email.com,2023-04-21,51880,Finance
+Mike Doe,37,mike_doe@email.com,2018-09-20,,IT
+NULL,20,invalid_email,2025-01-01,61112,HR
+David O'Connell,20,invalid_email,2019-11-07,,HR
+Emily Green,44,emily_green@fake.com,2025-01-11,37582,IT
+Mike Smith,40,invalid_email,2017-08-10,NULL,HR
+Sam White,NULL,sam_white@fake.com,2017-03-11,NULL,Customer Support
+Peter Johnson,NA,peter_johnson@mail.net,2019-08-25,,IT
+Jane Black,54,jane_black@web.org,2025-01-01,,Sales
+Mike Davis,NULL,mike_davis@fake.com,2025-01-01,,HR
+Chris Brown,NULL,chris_brown@email.com,2015-11-08,NULL,Operations
+Jane O'Connell,NA,jane_o'connell@fake.com,2025-01-01,NULL,Marketing
+Jessica O'Connell,40,jessica_o'connell@web.org,27/02/2015,78927,Customer Support
+Emily White,NA,emily_white@web.org,2024-12-08,,Operations
+Chris Brown,20,chris_brown@mail.net,2025-04-10,90137,Customer Support
+Mike Brown,NA,mike_brown@email.com,2018-05-10,NULL,HR
+Laura Doe,NA,laura_doe@mail.net,2025-01-01,34756,HR
+James Davis,20,james_davis@mail.net,16/03/2025,48273,Sales
+Alex Davis,NULL,alex_davis@web.org,2017-01-19,,NULL
+Sarah Doe,NULL,sarah_doe@mail.net,2025-04-25,NULL,NULL
+Anna Black,NA,anna_black@email.com,2025-01-01,31838,Sales
+James Brown,37,james_brown@mail.net,2023-07-19,NULL,Customer Support
+Alice Green,NULL,alice_green@email.com,13/08/2023,,IT
+Alex O'Connell,20,alex_o'connell@web.org,2016-06-19,62613,Finance
+Laura Smith,NULL,laura_smith@fake.com,2024-05-22,NULL,HR
+Chris Doe,31,chris_doe@email.com,2025-01-01,NULL,Marketing
+Alice Miller,20,alice_miller@email.com,19/09/2020,,Marketing
+Chris Davis,NA,invalid_email,2025-01-01,76225,Operations
+Mary O'Connell,20,mary_o'connell@web.org,2016-05-09,84505,Marketing
+Alex Doe,NA,alex_doe@web.org,2017-04-14,42202,Marketing
+Chris White,42,chris_white@email.com,14/02/2015,,Customer Support
+John Miller,NULL,john_miller@web.org,2018-11-09,,HR
+Lisa Johnson,20,invalid_email,2015-06-06,70804,HR
+Jane Brown,NA,jane_brown@mail.net,2025-01-01,38458,HR
+Tom Miller,NULL,tom_miller@web.org,2020-07-16,NULL,Operations
+Jane Green,20,invalid_email,27/07/2018,56482,Marketing
+David Brown,37,david_brown@mail.net,2024-06-09,35096,Sales
+John Johnson,49,john_johnson@email.com,2025-01-01,35331,Marketing
+Emily Smith,NULL,emily_smith@web.org,2021-07-01,81798,Operations
+Lisa Doe,NA,lisa_doe@mail.net,2021-10-03,NULL,Operations
+Sam Doe,20,sam_doe@fake.com,2021-09-10,,HR
+Sam Brown,NULL,sam_brown@fake.com,2018-01-05,,Operations
+NULL,26,invalid_email,2025-01-01,,IT
+Anna Smith,20,invalid_email,2025-01-01,,Customer Support
+Alex Black,NULL,invalid_email,2016-10-26,,Sales
+Sam Davis,25,sam_davis@fake.com,2015-06-22,67436,Finance
+Mary Black,NA,mary_black@mail.net,2025-01-01,,NULL
+Anna Smith,NULL,anna_smith@email.com,2021-02-09,42779,Customer Support
+Robert Green,NULL,robert_green@fake.com,2020-06-17,NULL,Sales
+Alice Green,NA,alice_green@web.org,2023-12-01,,Operations
+Anna Doe,20,anna_doe@fake.com,2015-04-04,,Customer Support
+Tom Brown,NA,tom_brown@fake.com,2019-07-19,99247,NULL
+David Miller,NULL,invalid_email,2016-01-04,,Finance
+Alex Johnson,NA,alex_johnson@fake.com,2016-08-05,55555,IT
+David Green,20,david_green@fake.com,2025-01-01,,IT
+Alice Miller,NULL,invalid_email,2018-11-02,,Marketing
+Alex Brown,NA,alex_brown@fake.com,2025-01-01,NULL,Sales
+Peter Smith,20,peter_smith@web.org,2023-05-01,,HR
+Alice White,NULL,alice_white@mail.net,2023-04-10,NULL,Operations
+NULL,NA,invalid_email,2015-02-22,,Sales
+Peter Smith,46,peter_smith@email.com,26/06/2016,NULL,Customer Support
+Jessica Smith,NA,jessica_smith@web.org,2025-01-01,NULL,HR
+Jane Davis,NA,jane_davis@mail.net,2018-08-22,NULL,NULL
+Alice Miller,NULL,alice_miller@fake.com,2019-06-09,NULL,Finance
+Alex O'Connell,20,alex_o'connell@fake.com,2021-04-03,,Finance
+Sarah Brown,NULL,sarah_brown@email.com,2016-09-15,,Sales
+Laura Green,20,laura_green@mail.net,2020-06-08,75549,Finance
+James Davis,51,james_davis@mail.net,2025-01-01,70497,IT
+Sarah Miller,NA,sarah_miller@web.org,2025-01-01,,Operations
+NULL,NA,invalid_email,2020-05-27,NULL,Operations
+Emily Doe,NA,emily_doe@email.com,2025-01-01,,HR
+Laura O'Connell,43,invalid_email,2015-03-18,NULL,Finance
+Mike Davis,42,mike_davis@mail.net,2025-01-01,,Operations
+Sam White,54,sam_white@web.org,2016-09-15,,Finance
+Lisa Brown,NULL,lisa_brown@email.com,2022-08-28,68640,Finance
+Tom White,20,tom_white@mail.net,23/04/2017,,Operations
+Laura Smith,20,laura_smith@mail.net,2020-05-01,48629,IT
+Jessica Davis,NA,jessica_davis@mail.net,21/12/2021,82483,HR
+NULL,NULL,invalid_email,2025-11-06,73306,Customer Support
+Mary Black,NULL,mary_black@mail.net,2025-01-11,,IT
+James Black,20,james_black@fake.com,2019-11-06,33039,Finance
+Tom White,NULL,invalid_email,2025-01-01,75480,Customer Support
+Anna Black,NULL,anna_black@mail.net,2025-01-01,61064,HR
+Lisa Smith,20,lisa_smith@mail.net,2025-01-01,61823,NULL
+Anna Davis,NULL,anna_davis@email.com,2025-11-10,NULL,Finance
+Jane Black,20,jane_black@fake.com,2025-01-01,,Marketing
+NULL,20,invalid_email,22/07/2015,42491,Customer Support
+Mike Johnson,NA,mike_johnson@mail.net,17/08/2015,NULL,Operations
+John Smith,50,john_smith@email.com,2025-01-01,,Finance
+Mary Brown,20,mary_brown@fake.com,21/06/2017,NULL,IT
+Anna Johnson,20,anna_johnson@email.com,13/06/2020,66605,HR
+Tom Miller,33,tom_miller@fake.com,21/08/2024,,Finance
+Chris Black,NULL,chris_black@web.org,2023-11-03,NULL,Marketing
+David O'Connell,20,david_o'connell@fake.com,2016-02-10,NULL,Marketing
+NULL,20,invalid_email,2025-01-01,,Finance
+Alex Smith,NA,alex_smith@web.org,2025-01-01,40999,NULL
+Sam White,20,sam_white@web.org,2020-07-23,88217,Marketing
+Alex Miller,NA,alex_miller@mail.net,2016-04-15,35145,Finance
+Alice Black,20,alice_black@web.org,2025-01-01,NULL,HR
+Lisa Green,NA,lisa_green@mail.net,2015-06-18,,Customer Support
+Anna Miller,NULL,anna_miller@fake.com,2024-04-01,,IT
+John Brown,NULL,john_brown@web.org,2015-02-12,81933,Marketing
+Sarah O'Connell,NA,invalid_email,2024-01-19,,Operations
+Alice Green,20,alice_green@web.org,2015-02-09,73313,HR
+John Miller,56,john_miller@fake.com,2025-01-01,80080,IT
+Alice O'Connell,NA,alice_o'connell@web.org,2025-01-01,NULL,Customer Support
+Jessica Green,NA,jessica_green@email.com,2017-07-12,86010,Operations
+David Brown,NA,david_brown@email.com,2015-09-24,NULL,Finance
+Sarah Smith,NA,sarah_smith@mail.net,2025-01-01,NULL,Customer Support
+Sarah Doe,20,sarah_doe@web.org,2025-01-01,,Operations
+Mike Doe,31,mike_doe@web.org,2025-01-01,,Finance
+Sarah White,NA,sarah_white@mail.net,2025-01-01,NULL,Marketing
+NULL,NA,invalid_email,2025-01-01,59863,IT
+NULL,41,invalid_email,2025-08-21,54810,Sales
+Sam Brown,NA,sam_brown@fake.com,2024-05-20,NULL,IT
+Peter Johnson,20,peter_johnson@mail.net,2022-06-23,,Sales
+Mike Johnson,NA,mike_johnson@mail.net,2021-10-10,68258,HR
+Chris Green,31,chris_green@mail.net,2025-01-01,,Sales
+Alice Doe,20,alice_doe@web.org,18/06/2016,33088,Operations
+Laura Black,20,laura_black@fake.com,2017-02-22,42352,Marketing
+Mike Brown,NULL,invalid_email,2016-12-22,30534,HR
+Sarah Davis,NA,sarah_davis@fake.com,2023-08-13,NULL,Sales
+Lisa Johnson,NULL,lisa_johnson@web.org,2025-08-04,NULL,Customer Support
+Jessica Miller,47,invalid_email,2025-01-01,NULL,IT
+Alice Johnson,NA,alice_johnson@fake.com,2020-04-08,31274,Marketing
+James Green,20,james_green@fake.com,2016-12-04,,Customer Support
+Jane Johnson,NA,jane_johnson@web.org,2025-01-01,NULL,Finance
+John Johnson,26,john_johnson@email.com,2025-01-01,92901,Finance
+Anna Miller,35,anna_miller@mail.net,2024-08-06,,Sales
+Mike Doe,20,mike_doe@fake.com,2025-01-01,,Finance
+Mary Green,NULL,mary_green@web.org,26/11/2024,NULL,Sales
+Anna White,20,anna_white@mail.net,2025-01-01,56727,Finance
+Alex Smith,NULL,alex_smith@mail.net,2018-01-24,NULL,Sales
+Mike Brown,NULL,mike_brown@email.com,2023-06-08,NULL,NULL
+Jessica Brown,NULL,jessica_brown@mail.net,22/09/2015,NULL,Sales
+Alice Green,NA,alice_green@email.com,2022-11-08,NULL,Operations
+Sam Green,43,sam_green@email.com,2025-01-01,44984,HR
+Lisa Green,20,lisa_green@web.org,2025-01-01,,NULL
+Anna Smith,NULL,anna_smith@web.org,2016-05-13,,HR
+Alice Johnson,NA,invalid_email,2025-01-01,NULL,Marketing
+James Black,NA,james_black@email.com,2025-01-01,85358,HR
+Peter Black,NULL,invalid_email,2025-11-19,67599,Finance
+Laura Miller,53,laura_miller@email.com,2018-09-13,,IT
+Robert White,20,invalid_email,2018-04-26,,NULL
+NULL,20,invalid_email,2020-08-18,,HR
+Robert Green,NA,robert_green@fake.com,2022-11-08,,Marketing
+Jessica Miller,NA,jessica_miller@email.com,2024-11-07,NULL,IT
+Sarah Johnson,NULL,sarah_johnson@mail.net,2022-08-10,61135,Finance
+Anna Miller,NULL,anna_miller@mail.net,2025-01-01,NULL,Operations
+Chris Black,NA,chris_black@mail.net,2021-11-04,,Customer Support
+John Smith,NULL,john_smith@email.com,2021-03-17,NULL,Customer Support
+Robert Smith,NULL,robert_smith@web.org,2025-01-01,NULL,Sales
+Laura Doe,NA,laura_doe@web.org,2025-01-01,91386,HR
+Robert O'Connell,NA,robert_o'connell@email.com,2016-01-15,40894,Customer Support
+Mary Miller,20,mary_miller@web.org,2021-08-03,,IT
+David Brown,NA,david_brown@email.com,2024-06-07,,Sales
+Alex Brown,NA,alex_brown@web.org,2020-08-12,NULL,IT
+Robert Johnson,20,robert_johnson@email.com,16/06/2019,82890,Marketing
+Anna Smith,NULL,anna_smith@email.com,2021-04-26,91414,IT
+Lisa O'Connell,20,lisa_o'connell@email.com,2015-04-05,61577,Finance
+David Black,NULL,david_black@fake.com,2015-07-02,NULL,Operations
+Emily Doe,20,emily_doe@email.com,23/08/2024,99512,Finance
+Robert Doe,20,robert_doe@fake.com,2023-01-08,NULL,Finance
+Mike Smith,50,mike_smith@web.org,2016-07-14,NULL,HR
+Sarah Doe,58,sarah_doe@fake.com,2022-05-07,NULL,Operations
+Peter Davis,NULL,peter_davis@fake.com,2025-01-01,84989,Finance
+Anna White,50,anna_white@mail.net,20/09/2015,82932,Customer Support
+John Green,NA,john_green@fake.com,2018-12-06,37618,Customer Support
+Sarah Johnson,20,sarah_johnson@web.org,2024-07-07,,Sales
+Anna Davis,NULL,anna_davis@fake.com,22/03/2017,NULL,Operations
+John Green,NA,john_green@fake.com,2025-01-01,,Marketing
+Lisa O'Connell,NA,lisa_o'connell@web.org,2024-12-04,34449,Sales
+Anna O'Connell,NA,anna_o'connell@email.com,2017-09-15,NULL,Customer Support
+Peter Doe,52,peter_doe@mail.net,18/10/2022,NULL,Operations
+Lisa White,20,lisa_white@email.com,2019-07-13,,Operations
+Lisa Black,43,lisa_black@email.com,2025-01-01,,Marketing
+Jane Black,NA,jane_black@email.com,2019-02-09,NULL,Operations
+Chris Green,NA,chris_green@mail.net,2025-01-01,,HR
+Mary Johnson,NA,mary_johnson@email.com,2015-01-15,33821,NULL
+Alex Davis,54,alex_davis@web.org,2023-07-26,,Marketing
+Mike Miller,20,mike_miller@fake.com,2016-08-18,,NULL
+Mike White,NULL,invalid_email,2022-01-06,71305,NULL
+Alex Brown,NA,alex_brown@fake.com,2024-02-10,74662,Operations
+Lisa Brown,60,lisa_brown@web.org,2025-01-01,,Customer Support
+Laura Smith,21,laura_smith@mail.net,25/06/2022,,IT
+Chris Smith,NA,invalid_email,2020-08-19,68560,Sales
+Jessica Brown,NA,jessica_brown@mail.net,2025-01-01,,Operations
+Alice Miller,20,alice_miller@web.org,2019-12-26,,Sales
+Chris Doe,26,chris_doe@web.org,2024-11-21,,IT
+Jessica White,NA,jessica_white@email.com,13/03/2017,35161,Operations
+Anna Brown,NULL,anna_brown@web.org,2018-11-11,90755,Customer Support
+Robert Smith,NULL,robert_smith@email.com,2025-09-13,84624,Operations
+Anna Davis,20,anna_davis@fake.com,2025-01-01,37898,IT
+Chris Davis,NULL,chris_davis@web.org,2025-01-01,55257,Sales
+Tom O'Connell,NULL,invalid_email,2016-03-14,56015,Finance
+Alex Davis,20,alex_davis@mail.net,2015-03-08,40336,Sales
+Mike Black,20,mike_black@mail.net,2015-06-12,NULL,Sales
+Chris Johnson,20,chris_johnson@email.com,2025-01-01,45186,Operations
+Jane Davis,NA,jane_davis@web.org,22/02/2023,70374,Customer Support
+Emily Smith,NA,emily_smith@mail.net,23/07/2018,56864,Sales
+Peter Green,NA,peter_green@email.com,2015-05-01,60210,Sales
+Alex O'Connell,27,alex_o'connell@mail.net,2022-06-03,NULL,Finance
+Tom O'Connell,NULL,tom_o'connell@email.com,2022-02-04,,Sales
+David O'Connell,NA,david_o'connell@web.org,15/10/2020,32623,Operations
+Sam Brown,NA,invalid_email,2019-11-21,51404,Marketing
+John Davis,25,john_davis@mail.net,2020-07-12,53809,NULL
+Alex Black,20,alex_black@fake.com,2015-07-28,31068,IT
+NULL,NULL,invalid_email,2022-03-14,NULL,Operations
+Mary Brown,41,mary_brown@mail.net,2015-03-25,,Marketing
+David Brown,54,david_brown@email.com,2019-01-15,93319,HR
+Mary Smith,20,mary_smith@email.com,2025-01-01,NULL,Marketing
+Lisa White,NA,lisa_white@mail.net,2023-11-21,,Operations
+Alex Davis,58,alex_davis@email.com,2025-01-01,NULL,Customer Support
+David White,20,david_white@mail.net,2016-04-19,,NULL
+John O'Connell,20,john_o'connell@email.com,2020-02-12,35333,IT
+Sam Johnson,NA,sam_johnson@mail.net,2025-01-01,38191,Finance
+Emily O'Connell,20,emily_o'connell@web.org,2025-01-01,,NULL
+Emily Doe,NULL,emily_doe@email.com,2019-03-26,,HR
+Anna Davis,20,anna_davis@mail.net,2017-05-17,NULL,Customer Support
+Emily Doe,NULL,emily_doe@web.org,2019-05-01,57700,Marketing
+Mary Smith,NA,mary_smith@fake.com,2025-01-01,59072,NULL
+Alice Brown,20,alice_brown@mail.net,2023-05-28,NULL,Marketing
+Robert White,20,robert_white@fake.com,2021-05-12,,Customer Support
+Jane Davis,20,jane_davis@web.org,2015-09-08,,IT
+Emily Green,NA,emily_green@fake.com,2024-06-21,94356,Sales
+Lisa Smith,30,invalid_email,2025-06-19,,NULL
+Jane White,20,jane_white@email.com,2024-06-01,88086,Customer Support
+Alex Black,NULL,alex_black@web.org,2018-07-07,NULL,HR
+David Miller,38,david_miller@email.com,2025-04-20,,Operations
+Sam Green,20,sam_green@web.org,2020-07-07,,IT
+Robert O'Connell,NA,robert_o'connell@web.org,2019-04-20,,Customer Support
+Alex Smith,NA,alex_smith@email.com,21/05/2025,,Marketing
+Alice O'Connell,20,alice_o'connell@fake.com,2021-04-10,,Finance
+Mike O'Connell,30,mike_o'connell@mail.net,23/01/2021,,Marketing
+Jessica Smith,NULL,jessica_smith@email.com,2021-07-28,,HR
+John White,NA,john_white@web.org,2015-05-03,42690,Marketing
+Emily Smith,NULL,emily_smith@email.com,2019-06-18,,Marketing
+James Brown,NULL,james_brown@mail.net,2025-01-01,,Customer Support
+Alice O'Connell,20,invalid_email,2015-09-13,90637,Finance
+Tom O'Connell,20,tom_o'connell@email.com,2021-07-08,,Customer Support
+NULL,NULL,invalid_email,2025-06-18,35824,HR
+Alex Miller,NA,alex_miller@email.com,2016-11-13,NULL,Finance
+Anna Brown,NULL,anna_brown@fake.com,2025-08-05,,IT
+Mike Doe,20,mike_doe@fake.com,2017-10-01,40497,Marketing
+Laura Miller,20,laura_miller@fake.com,2025-01-01,38893,HR
+Chris Miller,20,chris_miller@mail.net,26/02/2015,58046,HR
+Robert Johnson,NA,robert_johnson@fake.com,2025-12-08,,Sales
+Mary Smith,20,mary_smith@web.org,2023-09-09,,HR
+Sam Green,NULL,sam_green@email.com,2025-03-23,32079,HR
+Alex Smith,20,alex_smith@mail.net,2020-12-09,,HR
+Mary Miller,20,mary_miller@email.com,2016-04-09,,IT
+Mike Johnson,NULL,mike_johnson@mail.net,22/09/2018,NULL,Sales
+Anna Brown,NULL,anna_brown@web.org,2015-01-25,NULL,NULL
+Laura Smith,20,laura_smith@web.org,22/08/2019,,HR
+David White,25,david_white@email.com,2017-06-05,NULL,IT
+Emily Smith,27,emily_smith@fake.com,15/12/2019,NULL,NULL
+Lisa Doe,54,lisa_doe@fake.com,2025-01-01,NULL,IT
+Jane Black,22,jane_black@fake.com,2020-01-01,NULL,NULL
+Alex Green,40,alex_green@email.com,2025-06-06,,Sales
+Emily O'Connell,20,emily_o'connell@mail.net,2022-04-21,NULL,Sales
+Tom Doe,NULL,tom_doe@mail.net,2025-01-01,94375,Finance
+Emily Miller,NULL,emily_miller@email.com,2023-05-14,,Sales
