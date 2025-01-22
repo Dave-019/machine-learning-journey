@@ -25,7 +25,6 @@ Alright, today was heavy but important. I dug into some foundational stuff thatâ
 ---
 
 ## How It Went  
-- It was a grind, not gonna lie.  
 - I used the book "machine-learning-with-python-cookbook-practical-solutions-from-preprocessing-to-deep-learning_compress" i have shared in the repo ,under the books folder.
 - Eigenvalues and determinants are officially my new least favorite things.  
 - On the bright side, I can now look at a messy dataset and think, "I got this."  
