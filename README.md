@@ -41,6 +41,7 @@ Each folder will typically include:
 | Day 4 | Data handling                  | ✅   | [Day 4](DAYS/Day4.md) |
 | Day 5 | Data handling(cont)                  | ✅   | [Day 5](DAYS/Day5.md) |
 | Day 6 | Regression                  | ✅   | [Day 6](DAYS/Day6.md) |
+| Day 6 | Regression(cont)                  | ✅   | [Day 7](DAYS/Day7.md) |
 ---
 
 ## Contributing  
