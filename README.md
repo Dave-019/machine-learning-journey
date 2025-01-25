@@ -2,7 +2,7 @@
 
 This repository documents my daily progress as I learn machine learning. Each day focuses on a specific topic, and I’ll push my notes, code, and reflections to the repo.  
 
-![ML Journey](./images/pp.jpg)
+![ML Journey](./images/pp.png)
 
 
 ---
