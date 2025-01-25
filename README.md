@@ -2,7 +2,8 @@
 
 This repository documents my daily progress as I learn machine learning. Each day focuses on a specific topic, and I’ll push my notes, code, and reflections to the repo.  
 
-![ML Journey](https://static.vecteezy.com/vite/assets/photo-masthead-375-b8ae1548.webp)
+![ML Journey](./images/Freepik_%20Download%20Free%20Videos,%20Vectors,%20Photos,%20and%20PSD.jpg)
+
 
 ---
 
