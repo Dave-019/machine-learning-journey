@@ -2,7 +2,7 @@
 
 This repository documents my daily progress as I learn machine learning. Each day focuses on a specific topic, and I’ll push my notes, code, and reflections to the repo.  
 
-![ML Journey](./images/Freepik_%20Download%20Free%20Videos,%20Vectors,%20Photos,%20and%20PSD.jpg)
+![ML Journey](./images/pp.jpg)
 
 
 ---
