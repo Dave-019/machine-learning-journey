@@ -9,7 +9,7 @@ This repository documents my daily progress as I learn machine learning. Each da
 The repository is organized by days and topics:  
 
 Each folder will typically include:  
-- **Notes**: A summary of the topic and key concepts.  
+- **Books**: Books I read.  
 - **Code**: Examples, exercises, or small projects.  
 - **Reflections**: What I learned, challenges faced, and areas for improvement.  
 
@@ -26,7 +26,7 @@ Each folder will typically include:
 ## Tools and Libraries  
 
 - **Languages**: Python  
-- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch  
+- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow
 - **Tools**: Jupyter Notebooks, Git, GitHub  
 
 ---
@@ -41,7 +41,8 @@ Each folder will typically include:
 | Day 4 | Data handling                  | ✅   | [Day 4](DAYS/Day4.md) |
 | Day 5 | Data handling(cont)                  | ✅   | [Day 5](DAYS/Day5.md) |
 | Day 6 | Regression                  | ✅   | [Day 6](DAYS/Day6.md) |
-| Day 6 | Regression(cont)                  | ✅   | [Day 7](DAYS/Day7.md) |
+| Day 7 | Regression(linear)                  | ✅   | [Day 7](DAYS/Day7.md) |
+| Day 8 | Regression(logistic)                  | ✅   | [Day 8](DAYS/Day8.md) |
 ---
 
 ## Contributing  
