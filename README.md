@@ -46,6 +46,7 @@ Each folder will typically include:
 | Day 6 | Regression                  | ✅   | [Day 6](DAYS/Day6.md) |
 | Day 7 | Regression(linear)                  | ✅   | [Day 7](DAYS/Day7.md) |
 | Day 8 | Regression(logistic)                  | ✅   | [Day 8](DAYS/Day8.md) |
+| Day 9&10 | Web-app                 | ✅   | [Day 9](DAYS/Day9.md) |
 ---
 
 ## Contributing  
