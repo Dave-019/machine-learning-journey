@@ -48,6 +48,7 @@ Each folder will typically include:
 | Day 8 | Regression(logistic)                  | ✅   | [Day 8](DAYS/Day8.md) |
 | Day 9&10 | Web-app                 | ✅   | [Day 9](DAYS/Day9.md) |
 | Day 11 | classifiers                  | ✅   | [Day 11](DAYS/Day11.md) |
+| Day 12 | classifiers(models)                  | ✅   | [Day 12](DAYS/Day12.md) |
 ---
 
 ## Contributing  
